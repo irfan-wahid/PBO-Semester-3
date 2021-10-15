@@ -11,7 +11,7 @@ public class Itachi extends Rikudo {
 
     void printDojutsu() {
         System.out.println(this.Dojutsu);
-        setDojutsu();
+        setDojutsu();//mengisi nilai variabel this.Dojutsu menjadi "Mengekyou Sharingan"
         System.out.println(this.Dojutsu);
     }
 
